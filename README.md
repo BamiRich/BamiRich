@@ -1,5 +1,14 @@
 ### Hi there 👋
-Your favorite boy, BamiRich
+Your favorite boy, BamiRich;
+
+- 🔭 I’m currently working on a Rental Market Place ("Ayalo") project
+- 🌱 I’m currently learning UI/UX at Zuri & Ingressive4good
+- 👯 I’m looking to collaborate on front-end developing
+- 🤔 I’m looking for help with back-end developer
+- 💬 Ask me to work with you
+- 📫 How to reach me: Twitter or Mail me
+- 😄 Pronouns: "Ni che"
+- ⚡ Fun fact: I'm an athlete, that eat plant based food
 <!--
 **BamiRich/BamiRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
