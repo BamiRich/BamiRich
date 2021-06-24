@@ -6,7 +6,7 @@ Your favorite boy, BamiRich;
 - 👯 I’m looking to collaborate on front-end developing
 - 🤔 I’m looking for help with back-end developer
 - 💬 Ask me to work with you
-- 📫 How to reach me: Twitter or Mail me
+- 📫 How to reach me: bamishebi@gmail.com
 - 😄 Pronouns: "Ni che"
 - ⚡ Fun fact: I'm an athlete, that eat plant based food
 <!--
