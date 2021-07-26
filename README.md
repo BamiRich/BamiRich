@@ -1,9 +1,9 @@
 ### Hi there 👋
 Your favorite boy, BamiRich;
 
-- 🔭 I’m currently working on a Rental Market Place ("Ayalo") project
-- 🌱 I’m currently learning UI/UX at Zuri & Ingressive4good
-- 👯 I’m looking to collaborate on front-end developing
+- 🔭 I’m currently working on a Rental Marketplace ("Ayalo Online") project
+- 🌱 I just learnt UI/UX design
+- 👯 I’m now learning front-end development looking to collaborate on these
 - 🤔 I’m looking for help with back-end developer
 - 💬 Ask me to work with you
 - 📫 How to reach me: bamishebi@gmail.com
